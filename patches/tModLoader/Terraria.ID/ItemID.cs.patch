@@ -9,4 +9,30 @@
  				});
  			public static int[] StaffMinionSlotsRequired = ItemID.Sets.Factory.CreateIntSet(1, new int[0]);
  			public static bool[] ExoticPlantsForDyeTrade = ItemID.Sets.Factory.CreateBoolSet(new int[]
+@@ -788,6 +_,25 @@
+ 					3316,
+ 					3317,
+ 					3389
++				});
++			public static bool[] Torch = ItemID.Sets.Factory.CreateBoolSet(new int[]
++				{
++					8,
++					427,
++					428,
++					429,
++					430,
++					431,
++					432,
++					433,
++					523,
++					974,
++					1245,
++					1333,
++					2274,
++					3004,
++					3045,
++					3114
+ 				});
+ 			public static bool[] AlsoABuildingItem = ItemID.Sets.Factory.CreateBoolSet(new int[]
+ 				{
 

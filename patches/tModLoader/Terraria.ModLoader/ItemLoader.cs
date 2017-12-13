@@ -122,6 +122,7 @@ namespace Terraria.ModLoader
 			Array.Resize(ref ItemID.Sets.GamepadWholeScreenUseRange, nextItem);
 			Array.Resize(ref ItemID.Sets.GamepadSmartQuickReach, nextItem);
 			Array.Resize(ref ItemID.Sets.Yoyo, nextItem);
+			Array.Resize(ref ItemID.Sets.Torch, nextItem);
 			Array.Resize(ref ItemID.Sets.AlsoABuildingItem, nextItem);
 			Array.Resize(ref ItemID.Sets.LockOnIgnoresCollision, nextItem);
 			Array.Resize(ref ItemID.Sets.LockOnAimAbove, nextItem);
